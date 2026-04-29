@@ -1,6 +1,8 @@
 # LoopInf
 LoopInf - видеоредактор, который преобразует обычное видео в бесшовное. Можно использовать для создания обоев на рабочем столе, например для Wallpaper Engine.
 
+[ultrakill_wp_6-1_begin1.mp4](../../%D0%A2%D0%B2%D0%BE%D1%80%D1%87%D0%B5%D1%81%D1%82%D0%B2%D0%BE/%D0%9E%D0%B1%D0%BE%D0%B8%20%D0%B4%D0%BB%D1%8F%20wallpaper%20engine/ultrakill_wp_6-1_begin1.mp4)
+
 ## Как запустить?
 
 1. Запускаете ./output/main/main.exe или воспользуйтесь установкой для Linux или Windows
